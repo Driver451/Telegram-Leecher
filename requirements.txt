@@ -10,7 +10,7 @@ opencv-python
 Pillow
 psutil
 pytz
-pyrofork==2.3.61 
+pyrofork==2.3.50
 requests
 tgcrypto
 uvloop
